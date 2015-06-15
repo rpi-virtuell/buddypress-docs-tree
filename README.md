@@ -1,8 +1,6 @@
 Buddypress Docs Tree View Widget
 ==========================
 
-Description
-==========================
 Wordpress Buddypress Plugin: Adds a jstree widget to BuddyPress-Docs component
 
 buddypress-docs-tree
