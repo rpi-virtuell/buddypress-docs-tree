@@ -1,6 +1,12 @@
-buddypress-docs-tree
+Buddypress Docs Tree View Widget
 ==========================
 
+Description
+==========================
+Wordpress Buddypress Plugin: Adds a jstree widget to BuddyPress-Docs component
+
+buddypress-docs-tree
+--------------------------
 - Contributors: johappel
 - Tags: buddypress, bp-docs, buddypress docs
 - Requires at least: 4.0
@@ -8,12 +14,6 @@ buddypress-docs-tree
 - Stable tag: 0.1
 - License: GPLv3 or later
 - License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
-Description
-==========================
-Wordpress Buddypress Plugin: Adds a jstree widget to BuddyPress-Docs component
-
-
 
 Installation
 ==========================
