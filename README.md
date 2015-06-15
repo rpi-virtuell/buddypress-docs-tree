@@ -15,7 +15,7 @@ buddypress-docs-tree
 
 Installation
 ==========================
-@see: https://codex.wordpress.org/Managing_Plugins
+Supports the Default Plugin Installation methods (https://codex.wordpress.org/Managing_Plugins)
 
 
 Frequently Asked Questions
