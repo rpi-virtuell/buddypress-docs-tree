@@ -1,7 +1,6 @@
-# buddypress-docs-tree
-Wordpress Buddypress Plugin: Adds a jstree widget to BuddyPress-Docs component
+buddypress-docs-tree
+==========================
 
-=== RW Remote Auth Server ===
 Contributors: johappel
 Tags: buddypress, bp-docs, buddypress docs
 Requires at least: 4.0
